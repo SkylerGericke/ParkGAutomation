@@ -7,10 +7,15 @@ Skyler Gericke / James Choi / Charles Hudson / Nathan Romrell / Dean Spector
 
 
 
+
 Problem diagnosis:
 
 
+
+
 Proposed treatment:
+
+
 
 
 Plan of work: 
