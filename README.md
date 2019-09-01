@@ -9,6 +9,11 @@ Skyler Gericke / James Choi / Charles Hudson / Nathan Romrell / Dean Spector
 
 
 Problem diagnosis:
+   The average parking garage is operated with no computerized system, or a very primitive system. The system may track how many cars enter and exit the garage to keep track of capacity. This system is flawed when taking the customers time into account. If there are only a few parking spots left customers may spend large amounts of time just driving around trying to find a parking spot. This also creates congestion in the garage during peak parking times. This is only if the parking garage displays if the garage is at capacity or not. Some garages may not display this, and customers will drive around looking for a spot when there are none available. 
+   
+   Most garages work by giving customers a ticket with their time upon entry. This ticket is usually the only piece of information the customer receives. The customer then either has to figure out how long they have been parked for and calculate their cost or wait until they exit the garage to receive their total. In the both cases this causes more wasted time as customers have to spend time figuring the cost out or have to wait to have their money ready until they find the total cost. This can cause congestion and a backup of cars also trying to leave the garage.
+   
+   The main problem with the current operation of parking garages is the wasted time and the congestion which causes more wasted time. 
 
 
 
